@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<bbsDbConn>
+		<driver>postgres</driver>
+		<url>jdbc:postgresql://localhost:5432/bbs</url>
+		<id>bbs</id>
+		<pw>0718</pw>	
+	</bbsDbConn>
+</root>
